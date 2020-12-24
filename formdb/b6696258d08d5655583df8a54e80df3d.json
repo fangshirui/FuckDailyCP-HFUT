@@ -1,0 +1,284 @@
+[
+    {
+        "wid": "60038",
+        "formWid": "5806",
+        "fieldType": 2,
+        "title": "今日在校情况",
+        "description": "走读、请假、校外实习实验需学院审核批准，不得擅自填报",
+        "minLength": 0,
+        "sort": "1",
+        "maxLength": null,
+        "isRequired": 1,
+        "imageCount": null,
+        "hasOtherItems": 0,
+        "colName": "field001",
+        "value": "",
+        "minValue": 0.0,
+        "maxValue": 0.0,
+        "isDecimal": true,
+        "fieldItems": [
+            {
+                "itemWid": "193023",
+                "content": "在校，校内住宿",
+                "isOtherItems": 0,
+                "contendExtend": null,
+                "isSelected": 1
+            },
+            {
+                "itemWid": "193024",
+                "content": "走读，今日在校",
+                "isOtherItems": 0,
+                "contendExtend": null,
+                "isSelected": null
+            },
+            {
+                "itemWid": "193025",
+                "content": "走读，今日不在校",
+                "isOtherItems": 0,
+                "contendExtend": null,
+                "isSelected": null
+            },
+            {
+                "itemWid": "193026",
+                "content": "已请假，居家学习",
+                "isOtherItems": 0,
+                "contendExtend": null,
+                "isSelected": null
+            },
+            {
+                "itemWid": "193027",
+                "content": "已请假，校外实习实验",
+                "isOtherItems": 0,
+                "contendExtend": null,
+                "isSelected": null
+            }
+        ]
+    },
+    {
+        "wid": "60039",
+        "formWid": "5806",
+        "fieldType": 1,
+        "title": "今日所在地",
+        "description": "",
+        "minLength": 1,
+        "sort": "2",
+        "maxLength": 300,
+        "isRequired": 1,
+        "imageCount": -2,
+        "hasOtherItems": 0,
+        "colName": "field002",
+        "value": "安徽省/合肥市/包河区",
+        "minValue": 0.0,
+        "maxValue": 0.0,
+        "isDecimal": true,
+        "fieldItems": []
+    },
+    {
+        "wid": "60040",
+        "formWid": "5806",
+        "fieldType": 2,
+        "title": "今日晨检体温",
+        "description": "若发热（额温≥36.8℃或腋下体温≥37.3℃，后者更为准确）",
+        "minLength": 0,
+        "sort": "3",
+        "maxLength": null,
+        "isRequired": 1,
+        "imageCount": null,
+        "hasOtherItems": 0,
+        "colName": "field003",
+        "value": "",
+        "minValue": 0.0,
+        "maxValue": 0.0,
+        "isDecimal": true,
+        "fieldItems": [
+            {
+                "itemWid": "193028",
+                "content": "正常，不发热",
+                "isOtherItems": 0,
+                "contendExtend": null,
+                "isSelected": 1
+            },
+            {
+                "itemWid": "193029",
+                "content": "不正常，发热",
+                "isOtherItems": 0,
+                "contendExtend": null,
+                "isSelected": null
+            }
+        ]
+    },
+    {
+        "wid": "60041",
+        "formWid": "5806",
+        "fieldType": 2,
+        "title": "今日午检体温",
+        "description": "若发热（额温≥36.8℃或腋下体温≥37.3℃，后者更为准确）",
+        "minLength": 0,
+        "sort": "4",
+        "maxLength": null,
+        "isRequired": 1,
+        "imageCount": null,
+        "hasOtherItems": 0,
+        "colName": "field004",
+        "value": "",
+        "minValue": 0.0,
+        "maxValue": 0.0,
+        "isDecimal": true,
+        "fieldItems": [
+            {
+                "itemWid": "193030",
+                "content": "正常，不发热",
+                "isOtherItems": 0,
+                "contendExtend": null,
+                "isSelected": 1
+            },
+            {
+                "itemWid": "193031",
+                "content": "不正常，发热",
+                "isOtherItems": 0,
+                "contendExtend": null,
+                "isSelected": null
+            }
+        ]
+    },
+    {
+        "wid": "60042",
+        "formWid": "5806",
+        "fieldType": 2,
+        "title": "今日晚检体温",
+        "description": "若发热（额温≥36.8℃或腋下体温≥37.3℃，后者更为准确）",
+        "minLength": 0,
+        "sort": "5",
+        "maxLength": null,
+        "isRequired": 1,
+        "imageCount": null,
+        "hasOtherItems": 0,
+        "colName": "field005",
+        "value": "",
+        "minValue": 0.0,
+        "maxValue": 0.0,
+        "isDecimal": true,
+        "fieldItems": [
+            {
+                "itemWid": "193032",
+                "content": "正常，不发热",
+                "isOtherItems": 0,
+                "contendExtend": null,
+                "isSelected": 1
+            },
+            {
+                "itemWid": "193033",
+                "content": "不正常，发热",
+                "isOtherItems": 0,
+                "contendExtend": null,
+                "isSelected": null
+            }
+        ]
+    },
+    {
+        "wid": "60043",
+        "formWid": "5806",
+        "fieldType": 2,
+        "title": "今日是否有咳嗽、呼吸困难、腹泻症状",
+        "description": "",
+        "minLength": 0,
+        "sort": "6",
+        "maxLength": null,
+        "isRequired": 1,
+        "imageCount": null,
+        "hasOtherItems": 0,
+        "colName": "field006",
+        "value": "",
+        "minValue": 0.0,
+        "maxValue": 0.0,
+        "isDecimal": true,
+        "fieldItems": [
+            {
+                "itemWid": "193034",
+                "content": "否，无上述症状",
+                "isOtherItems": 0,
+                "contendExtend": null,
+                "isSelected": 1
+            },
+            {
+                "itemWid": "193035",
+                "content": "是，有上述症状",
+                "isOtherItems": 0,
+                "contendExtend": null,
+                "isSelected": null
+            }
+        ]
+    },
+    {
+        "wid": "60044",
+        "formWid": "5806",
+        "fieldType": 2,
+        "title": "今日是否被医学隔离观察",
+        "description": "以校医院通知为准",
+        "minLength": 0,
+        "sort": "7",
+        "maxLength": null,
+        "isRequired": 1,
+        "imageCount": null,
+        "hasOtherItems": 0,
+        "colName": "field007",
+        "value": "",
+        "minValue": 0.0,
+        "maxValue": 0.0,
+        "isDecimal": true,
+        "fieldItems": [
+            {
+                "itemWid": "193036",
+                "content": "否，未隔离",
+                "isOtherItems": 0,
+                "contendExtend": null,
+                "isSelected": 1
+            },
+            {
+                "itemWid": "193037",
+                "content": "是，被隔离",
+                "isOtherItems": 0,
+                "contendExtend": null,
+                "isSelected": null
+            }
+        ]
+    },
+    {
+        "wid": "60045",
+        "formWid": "5806",
+        "fieldType": 1,
+        "title": "简述今日主要行程",
+        "description": "主要行程记录，便于日后开展流行病学调查",
+        "minLength": 1,
+        "sort": "8",
+        "maxLength": 300,
+        "isRequired": 1,
+        "imageCount": null,
+        "hasOtherItems": 0,
+        "colName": "field008",
+        "value": "机械楼",
+        "minValue": 0.0,
+        "maxValue": 0.0,
+        "isDecimal": true,
+        "fieldItems": []
+    },
+    {
+        "wid": "60046",
+        "formWid": "5806",
+        "fieldType": 1,
+        "title": "今日晚间返回宿舍（家）时间",
+        "description": "",
+        "minLength": 1,
+        "sort": "9",
+        "maxLength": 300,
+        "isRequired": 1,
+        "imageCount": -1,
+        "hasOtherItems": 0,
+        "colName": "field009",
+        "value": "2020-12-24 21:26",
+        "minValue": 0.0,
+        "maxValue": 0.0,
+        "isDecimal": true,
+        "fieldItems": []
+    }
+]
